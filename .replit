@@ -1,0 +1,2 @@
+run = "cd application && npm run dev"
+entrypoint = "main.sh"
